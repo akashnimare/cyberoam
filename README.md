@@ -1,2 +1,2 @@
 #Usage
->> python c.py USERNAME PASSWORD
+> python c.py USERNAME PASSWORD
