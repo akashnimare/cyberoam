@@ -1,4 +1,4 @@
-#Usage
+#USAGE
 > python c.py USERNAME PASSWORD
 
 ## Run this script on system startup
